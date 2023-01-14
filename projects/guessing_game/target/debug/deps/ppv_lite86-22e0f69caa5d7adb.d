@@ -1,0 +1,11 @@
+/Users/berend/projecten/rustbook/projects/guessing_game/target/debug/deps/ppv_lite86-22e0f69caa5d7adb.rmeta: /Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/lib.rs /Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/soft.rs /Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/types.rs /Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/x86_64/mod.rs /Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/x86_64/sse2.rs
+
+/Users/berend/projecten/rustbook/projects/guessing_game/target/debug/deps/libppv_lite86-22e0f69caa5d7adb.rlib: /Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/lib.rs /Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/soft.rs /Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/types.rs /Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/x86_64/mod.rs /Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/x86_64/sse2.rs
+
+/Users/berend/projecten/rustbook/projects/guessing_game/target/debug/deps/ppv_lite86-22e0f69caa5d7adb.d: /Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/lib.rs /Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/soft.rs /Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/types.rs /Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/x86_64/mod.rs /Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/x86_64/sse2.rs
+
+/Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/lib.rs:
+/Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/soft.rs:
+/Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/types.rs:
+/Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/x86_64/mod.rs:
+/Users/berend/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/x86_64/sse2.rs:
