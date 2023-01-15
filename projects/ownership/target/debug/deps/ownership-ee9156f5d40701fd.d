@@ -1,5 +1,0 @@
-/Users/berend/projecten/rustbook/projects/ownership/target/debug/deps/ownership-ee9156f5d40701fd: src/main.rs
-
-/Users/berend/projecten/rustbook/projects/ownership/target/debug/deps/ownership-ee9156f5d40701fd.d: src/main.rs
-
-src/main.rs:
